@@ -1,0 +1,11 @@
+export default function LoremThree() {
+  return (
+    <div className="three d-flex flex-column col-3 gap-4">
+      <div className="circle bg-white  "></div>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
+      </p>
+    </div>
+  );
+}
